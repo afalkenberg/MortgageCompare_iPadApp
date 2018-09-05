@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD1A5E25-27A0-44E9-8C17-10D489988C52</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CompareTwoMortgages</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D8CB753790BCCF776B9F2ED89B551B73A94F82C</key>
+		<string>ssh://lisa-Laptop-old.local/~/08Compare2Mortgages/compare2mortgages</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CompareTwoMortgages.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D8CB753790BCCF776B9F2ED89B551B73A94F82C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://lisa-Laptop-old.local/~/08Compare2Mortgages/compare2mortgages</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D8CB753790BCCF776B9F2ED89B551B73A94F82C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D8CB753790BCCF776B9F2ED89B551B73A94F82C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>compare2mortgages</string>
+		</dict>
+	</array>
+</dict>
+</plist>
